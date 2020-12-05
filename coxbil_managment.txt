@@ -1,0 +1,62 @@
+database ve table 'lari yarat
+
+#site umumi konfiqurasiya
+-site url
+-site title
+-site keyword
+-site description
+-site logo
+-site google web master code
+-site phone
+-site mail
+-site address
+-site footer
+-site footer
+-site sosial media
+
+#site admin login konfiqurasiya
+-admin name
+-admin parol
+
+#ana sehifede 
+-melumatlarin oxunma saylari
+
+#postlar table
+-post title
+-post content
+-post date
+-post view
+
+
+#slider hissesi -- en yeniler
+-slider sekil
+-slider basliq
+
+#ana sehife butun melumatlar -- en sonuncu melumatlar
+-butun melumatlar
+-site content
+
+#en cox oxunanlar
+-oxunan basliq
+-qisa content
+
+#nedir hissesi
+-nedir basliq
+-nedir qisa content
+-pagination hissesi
+
+#paylas hissesi
+-paylas sekil
+-paylas content
+- form mesajlar hissesi
+
+#melumat hissesi
+-ana sehifeki site content
+
+#elaqe hissesi
+-form mesajlar --settings'le
+
+!!! --- table larda date hissesini saxla ve isDeleted sutunu --- !!!
+
+
+
